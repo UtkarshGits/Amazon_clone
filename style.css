@@ -387,3 +387,7 @@ section h5 {
     font-weight: 500;
     margin-bottom: 10px;
 }
+.press{
+    max-width: 350px;
+    height: 200px;
+}
